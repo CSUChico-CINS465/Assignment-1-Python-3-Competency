@@ -35,15 +35,15 @@ I'll need three things to be submitted for you to get credit for this assignment
 
 ![Python Badge Levels](https://raw.githubusercontent.com/CSUChico-CINS465/Assignment-1-Python-3-Competency/master/images/badgeproof.png)
 
-* Lastly, include a *README.md* file with the above screenshots with a list of the hackerrank challenges you solved to earn the badge. This can be a formmated in markdown list of the names of the challenges or a list of links to the challenges. If you don't know markdown, you can also just put each challenge on a seperate line. This is to help me determine some insight into what challenges you solved.
+* Lastly, include a *README.md* file with the above screenshots and a list of the hackerrank challenges you solved to earn the badge. This can be formatted in markdown as a list of the names of the challenges, or as a list of links to the challenges. If you don't know markdown, you can also just put each challenge on a seperate line. This is to help me determine some insight into what challenges you solved. If you are interested, here is a [markdown syntax cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ### Putting proof onto GitHub
 
-The competency proofs should be submitted to your CINS465 repo on a branch named **assignment1**, make sure your case is identical for your branch or I may not find/grade your submission. To do this you can do the following in your repo directory, it assumes you want to add all the code in the directory:
+The three proficiency proofs should be submitted to your CINS465 repo on a branch named **assignment1**, make sure your case is identical for your branch or I may not find/grade your submission. To do this you can do the following in your repo directory, it assumes you want to add all the code in the directory:
 
 ```
 git checkout -b assignment1 #create branch and switch to it
-git add -A #add all
+git add -A #add all -- this should include the 2 screenshots and README.md file listed above
 git commit -m "Assignment 1 Submission" #Commit changes to branch
 git push origin assignment1 #Push code up to assignment2 branch on remote
 ```
