@@ -45,7 +45,7 @@ The three proficiency proofs should be submitted to your CINS465 repo on a branc
 git checkout -b assignment1 #create branch and switch to it
 git add -A #add all -- this should include the 2 screenshots and README.md file listed above
 git commit -m "Assignment 1 Submission" #Commit changes to branch
-git push origin assignment1 #Push code up to assignment2 branch on remote
+git push origin assignment1 #Push code up to assignment1 branch on remote
 ```
 
 
